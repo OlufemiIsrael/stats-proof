@@ -1,0 +1,133 @@
+body {
+    font-family: 'Spartan', sans-serif;
+    background-image: url("img_bg-pattern-bottom-desktop"), url("img_bg-pattern-top-desktop");
+}
+.wrap-up {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.wrap {
+    display: flex;
+    justify-content: space-evenly;
+}
+.pile {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: hsl(300, 24%, 96%);
+    margin-top: 50px;
+    margin-left: -77px;
+    margin-right: 60px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+.pile-2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: hsl(300, 24%, 96%);
+    margin-bottom: 15px;
+    margin-left: -60px;
+    margin-right: 40px;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+.pile-3 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: hsl(300, 24%, 96%);
+    margin-left: -40px;
+    margin-right: 20px;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+.fas {
+    color: orange;
+    font-size: 12px;
+    white-space: nowrap;
+}
+.h {
+    white-space: nowrap;
+}
+.img1-wrap {
+    border: 1px;
+    border-radius: 6px;
+    background-color: hsl(300, 43%, 22%);
+    margin: 15px 18px 90px 80px;
+    padding-right: 10px;
+}
+.wrap1 {
+    padding: 60px 1px 15px 40px;
+
+}
+.heading {
+    padding: 45px 657px 0px 72px;
+    color: hsl(300, 43%, 22%);
+}
+.paragraph {
+    padding-top: 12px;
+    padding-right: 478px;
+    padding-left: 62px;
+    color: hsl(303, 10%, 53%);
+    font-size: 15px;
+}
+.img2-wrap {
+    border: 1px;
+    border-radius: 6px;
+    background-color: hsl(300, 43%, 22%);
+    margin-top: 30px;
+    margin-right: 18px;
+    margin-bottom: 60px;
+}
+.wrap2 {
+    padding: 60px 1px 20px 40px;   
+}
+.img3-wrap {
+    border: 1px;
+    border-radius: 6px;
+    background-color: hsl(300, 43%, 22%);
+    margin-top: 40px;
+    margin-right: 85px;
+    margin-bottom: 50px;
+}
+.wrap3 {
+    padding: 60px 1px 15px 40px;
+}
+.img1 {
+    border-radius: 57px;
+}
+.img2 {
+    border-radius: 58px;
+}
+.img3 {
+    border-radius: 58px;
+}
+.p {
+    font-size: 12px;
+    color: hsl(300, 43%, 22%);
+    padding-left: 5px;
+    white-space: nowrap;
+}
+.p1 {
+    color: white;
+}
+.p2 {
+    color: white;
+}
+.p3 {
+    color: white;
+}
+.h1 {
+    color: hsl(333, 80%, 67%)
+}
+.h2 {
+    color: hsl(333, 80%, 67%);
+}
+.h3 {
+    color: hsl(333, 80%, 67%);
+}
+.name {
+    color: white;
+}
